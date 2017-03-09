@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "src\ConsoleApplication\ConsoleApplication.csproj", "{1BCFE70C-8B33-4FD2-9BBE-A7BD076282A8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExactOnline.Client.Models", "src\ExactOnline.Client.Models\ExactOnline.Client.Models.vbproj", "{BD9A83F1-1106-45BB-BCBA-A54D6C213FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactOnline.Client.OAuth", "src\ExactOnline.Client.OAuth\ExactOnline.Client.OAuth.csproj", "{610FE8C1-F026-4567-8B47-8CB6338251F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactOnline.Client.Sdk", "src\ExactOnline.Client.Sdk\ExactOnline.Client.Sdk.csproj", "{EE442AA1-C51A-4531-92DA-A7D9C7B73973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCFE70C-8B33-4FD2-9BBE-A7BD076282A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCFE70C-8B33-4FD2-9BBE-A7BD076282A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCFE70C-8B33-4FD2-9BBE-A7BD076282A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCFE70C-8B33-4FD2-9BBE-A7BD076282A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9A83F1-1106-45BB-BCBA-A54D6C213FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9A83F1-1106-45BB-BCBA-A54D6C213FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9A83F1-1106-45BB-BCBA-A54D6C213FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9A83F1-1106-45BB-BCBA-A54D6C213FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610FE8C1-F026-4567-8B47-8CB6338251F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610FE8C1-F026-4567-8B47-8CB6338251F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610FE8C1-F026-4567-8B47-8CB6338251F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610FE8C1-F026-4567-8B47-8CB6338251F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE442AA1-C51A-4531-92DA-A7D9C7B73973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE442AA1-C51A-4531-92DA-A7D9C7B73973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE442AA1-C51A-4531-92DA-A7D9C7B73973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE442AA1-C51A-4531-92DA-A7D9C7B73973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://struggleendlessly.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = src\\ConsoleApplication\\ConsoleApplication.csproj
+		SccProjectName1 = src/ConsoleApplication
+		SccLocalPath1 = src\\ConsoleApplication
+		SccProjectUniqueName2 = src\\ExactOnline.Client.Models\\ExactOnline.Client.Models.vbproj
+		SccProjectName2 = src/ExactOnline.Client.Models
+		SccLocalPath2 = src\\ExactOnline.Client.Models
+		SccProjectUniqueName3 = src\\ExactOnline.Client.OAuth\\ExactOnline.Client.OAuth.csproj
+		SccProjectName3 = src/ExactOnline.Client.OAuth
+		SccLocalPath3 = src\\ExactOnline.Client.OAuth
+		SccProjectUniqueName4 = src\\ExactOnline.Client.Sdk\\ExactOnline.Client.Sdk.csproj
+		SccProjectName4 = src/ExactOnline.Client.Sdk
+		SccLocalPath4 = src\\ExactOnline.Client.Sdk
+	EndGlobalSection
+EndGlobal
